@@ -27,7 +27,7 @@
 <br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=annavigolo98&show_icons=true&theme=radical" alt="AnnaVigolo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaVigolo&layout=compact&exclude_repo=notebooks-lab,ml-course" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annavigolo98&layout=compact" alt="Top Langs" />
 </div>
 
