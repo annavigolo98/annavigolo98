@@ -24,15 +24,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
 
-<br>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaVigolo&layout=compact&exclude_repo=notebooks-lab,ml-course" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annavigolo98&layout=compact" alt="Top Langs" />
-</div>
-
-
-<br>
 
 ## Connect with Me
 - Email: [vigoloanna1998@gmail.com](mailto:vigoloanna1998@gmail.com)
